@@ -63,3 +63,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 
+gem "active_model_serializers", "~> 0.8.0"
+
+gem 'cancancan'
+
+gem 'bcrypt', '~> 3.1.7'
+gem 'rack-cors'
+gem 'jwt'
+
